@@ -4,6 +4,8 @@
 An AI-powered Streamlit web app that summarizes uploaded videos and provides intelligent responses to user queries using **Gemini 1.5 Flash** and **DuckDuckGo**. The app employs a multimodal AI agent from Phidata to analyze video content, gather supplementary web context, and deliver actionable insights.
 
 ---
+![ai video summ](https://github.com/user-attachments/assets/537118bc-2595-47f7-85cd-093e5e353efc)
+
 
 ## 🚀 Features
 

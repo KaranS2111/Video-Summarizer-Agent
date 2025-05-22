@@ -95,4 +95,5 @@ An AI-powered Streamlit web app that summarizes uploaded videos and provides int
 
 ## 📄 License
 
-MIT License © 2025 Your Name
+MIT License © 2025 
+Built by Karan Sardar, IIT Roorkee
